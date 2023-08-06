@@ -1,0 +1,15 @@
+package store.management.enums;
+
+public enum Permission {
+    MANAGE_USERS,
+    MANAGE_CATEGORY,
+    MANAGE_SUB_CATEGORY,
+    MANAGE_DISTRIBUTOR,
+    MANAGE_SUPPLIER,
+    MANAGE_PRODUCT,
+    UPDATE_QUANTITIES,
+    MAIL_OUT_OF_STOCK,
+    MANAGE_SALES,
+    MANAGE_RETURNS,
+    MANAGE_ROLES;
+}
